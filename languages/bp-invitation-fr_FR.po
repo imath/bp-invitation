@@ -1,0 +1,64 @@
+# Copyright (C) 2013 BP Invitation
+# This file is distributed under the same license as the BP Invitation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Invitation 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-invitation\n"
+"POT-Creation-Date: 2013-04-02 17:54:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-04-02 19:58+0100\n"
+"Last-Translator: imath <mathchristo@yahoo.fr>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: bp-invitation.php:46
+msgid "Registering to this website requires an invitation code"
+msgstr ""
+"L&#39;inscription à ce site nécessite de fournir un code invité, merci de le "
+"renseigner dans le champ ci après :"
+
+#: bp-invitation.php:48
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#: bp-invitation.php:68
+msgid "Your invitation code is not valid."
+msgstr "Merci d&#39;indiquer un code invité valide."
+
+#: bp-invitation.php:73
+msgid "Restrict registration with an invitation code"
+msgstr "Restriction des inscriptions avec un code d&#39;invitation"
+
+#: bp-invitation.php:75
+msgid "Invitation code"
+msgstr "Code invités"
+
+#: bp-invitation.php:82
+msgid ""
+"By adding an invitation code, you restrict registrations to users that have "
+"it."
+msgstr ""
+"En indiquant un code invité, vous restreignez les inscriptions aux seuls "
+"détenteurs de ce code"
+
+#. Plugin Name of the plugin/theme
+msgid "BP Invitation"
+msgstr "BP Invitation"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/imath/bp-invitation"
+msgstr "https://github.com/imath/bp-invitation"
+
+#. Description of the plugin/theme
+msgid "Restrict BuddyPress registration with an invitation code"
+msgstr "Restreignez vos inscriptions grâce à un code invité"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu/"
+msgstr "http://imathi.eu/"
