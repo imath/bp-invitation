@@ -1,0 +1,62 @@
+# Copyright (C) 2013 BP Invitation
+# This file is distributed under the same license as the BP Invitation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Invitation 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-invitation\n"
+"POT-Creation-Date: 2013-04-02 17:54:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-04-03 15:54+0100\n"
+"Last-Translator: Luca Camellini <luccame@gmail.com>\n"
+"Language-Team: luccame <luccame@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: bp-invitation.php:46
+msgid "Registering to this website requires an invitation code"
+msgstr "Per registrarsi su questo sito è necessario un codice invito"
+
+#: bp-invitation.php:48
+msgid "(required)"
+msgstr "(obbligatorio)"
+
+#: bp-invitation.php:68
+msgid "Your invitation code is not valid."
+msgstr "Si prega di inserire un codice invito valido."
+
+#: bp-invitation.php:73
+msgid "Restrict registration with an invitation code"
+msgstr "Limita le registrazioni tramite un codice invito"
+
+#: bp-invitation.php:75
+msgid "Invitation code"
+msgstr "Codice invito"
+
+#: bp-invitation.php:82
+msgid "By adding an invitation code, you restrict registrations to users that have it."
+msgstr "Specificando un codice invito, la registrazione sarà consentita solo a coloro che lo conoscono."
+
+#. Plugin Name of the plugin/theme
+msgid "BP Invitation"
+msgstr "BP Invitation"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/imath/bp-invitation"
+msgstr "https://github.com/imath/bp-invitation"
+
+#. Description of the plugin/theme
+msgid "Restrict BuddyPress registration with an invitation code"
+msgstr "Limita le registrazioni a BuddyPress tramite un codice invito"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu/"
+msgstr "http://imathi.eu/"
+
