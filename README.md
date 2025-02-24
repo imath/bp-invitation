@@ -1,6 +1,8 @@
 BP Invitation
 =============
 
+**This BuddyPress plugin is no more maintained and is now archived**
+
 BP Invitation is a quick BuddyPress plugin to restrict registrations with an invitation code.
 
 You can set the invitation code in the WordPress backend from the BuddyPress settings menu / settings tab.
